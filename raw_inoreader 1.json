@@ -1,0 +1,464 @@
+{
+  "direction": "ltr",
+  "id": "user/-/state/com.google/reading-list",
+  "title": "Reading List",
+  "description": "",
+  "self": {
+    "href": "https://www.inoreader.com/reader/api/0/stream/contents/user/-/state/com.google/reading-list?n=10"
+  },
+  "updated": 1787747129,
+  "updatedUsec": "1787747129319092",
+  "items": [
+    {
+      "crawlTimeMsec": "1787747121834",
+      "timestampUsec": "1787747121833610",
+      "id": "tag:google.com,2005:reader/item/0000000bb725f876",
+      "categories": [
+        "user/1003553122/state/com.google/reading-list",
+        "user/1003553122/state/com.google/fresh"
+      ],
+      "title": "How Dolly Parton helped the world - from children's books to supporting Covid vaccine",
+      "published": 1787746303,
+      "updated": 0,
+      "enclosure": [
+        {
+          "href": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/079f/live/4d3e8c50-a126-11f1-8c37-3f30331ac537.jpg",
+          "type": "image/jpeg",
+          "length": "99999"
+        }
+      ],
+      "canonical": [
+        {
+          "href": "https://www.bbc.co.uk/news/articles/c24j39jqy2go?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "alternate": [
+        {
+          "href": "https://www.bbc.co.uk/news/articles/c24j39jqy2go?at_medium=RSS&at_campaign=rss",
+          "type": "text/html"
+        }
+      ],
+      "summary": {
+        "direction": "ltr",
+        "content": "<p><img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/079f/live/4d3e8c50-a126-11f1-8c37-3f30331ac537.jpg\" alt=\"4d3e8c50-a126-11f1-8c37-3f30331ac537.jpg\"></p>The late singer-songwriter's charity causes were as eclectic as her music, but she had a personal connection to each one."
+      },
+      "author": "",
+      "likingUsers": [],
+      "comments": [],
+      "commentsNum": -1,
+      "annotations": [],
+      "origin": {
+        "streamId": "feed/https://feeds.bbci.co.uk/news/rss.xml",
+        "title": "BBC News",
+        "htmlUrl": "https://www.bbc.com"
+      },
+      "summaries": []
+    },
+    {
+      "crawlTimeMsec": "1787746832590",
+      "timestampUsec": "1787746832589585",
+      "id": "tag:google.com,2005:reader/item/0000000bb7253f2a",
+      "categories": [
+        "user/1003553122/state/com.google/reading-list",
+        "user/1003553122/state/com.google/fresh"
+      ],
+      "title": "Shell & General Electric Suffer Huge Cyberattack From Russia",
+      "published": 1787746861,
+      "updated": 0,
+      "enclosure": [
+        {
+          "href": "https://assets.bizclikmedia.net/1200/7f7d50ffeeb1c420d006fab1ea371c6a:d893c0c0ba8cbb3edbe41f8b2bfeb23b/as-technology-evolves-so-too-does-cybercrime.jpeg.jpg",
+          "type": "image/jpg",
+          "length": "99999"
+        }
+      ],
+      "canonical": [
+        {
+          "href": "https://energydigital.com/news/shell-general-electric-suffer-huge-cyberattack-from-russia"
+        }
+      ],
+      "alternate": [
+        {
+          "href": "https://energydigital.com/news/shell-general-electric-suffer-huge-cyberattack-from-russia",
+          "type": "text/html"
+        }
+      ],
+      "summary": {
+        "direction": "ltr",
+        "content": "<div><p>PTC has issued vendor patch CS473270 and is urging affected organisations to apply it immediately.</p><p>Beyond patching, the company recommends placing Windchill and FlexPLM instances behind VPNs or other trusted access gateways rather than exposing them directly to the internet.</p><p>Where <a href=\"https://cybermagazine.com/hacking-malware/experts-how-did-rogue-openai-models-hack-hugging-face\">exploitation</a> is already suspected, energy firms are advised to isolate the affected server and preserve forensic artifacts to support investigation.</p><p>Rotating all exposed credentials before restoring service is also recommended.</p><p>Notably, the tactics used in this campaign closely resemble Clop's earlier attacks, suggesting the group continues to find success without needing to significantly alter its approach.</p><p>Anup Kumar, CEO of Optiv Consulting, says the concentration of so many industrial users on a single platform is precisely what makes this kind of attack so damaging.</p><p>\"This comes down to one core issue: concentration risk and underscoring the importance of vendor risk assessments, software intake reviews and threat modelling,\" <a href=\"https://cybermagazine.com/executive/anup-kumar\">Anup</a> notes.</p><p>\"When a single exploit chain like CVE-2026-12569 hits a widespread product-lifecycle platform, it hands attackers a skeleton key to dozens of Financial Services companies, Oil &amp; Gas and retail brands all at once.</p><p>\"Attackers no longer need to breach 50 companies 50 times, just one piece of shared infrastructure and vulnerability.\"</p></div>"
+      },
+      "author": "",
+      "likingUsers": [],
+      "comments": [],
+      "commentsNum": -1,
+      "annotations": [],
+      "origin": {
+        "streamId": "feed/webfeed://https%3A%2F%2Fenergydigital.com%2Farticles--280d8f84",
+        "title": "Latest Energy Articles | Energy Magazine",
+        "htmlUrl": "https://energydigital.com/articles"
+      },
+      "summaries": []
+    },
+    {
+      "crawlTimeMsec": "1787746521474",
+      "timestampUsec": "1787746521473666",
+      "id": "tag:google.com,2005:reader/item/0000000bb7245f54",
+      "categories": [
+        "user/1003553122/state/com.google/reading-list",
+        "user/1003553122/state/com.google/fresh"
+      ],
+      "title": "Prince Harry and Meghan land in UK",
+      "published": 1787746052,
+      "updated": 0,
+      "enclosure": [
+        {
+          "href": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4648/live/54b5a5b0-9fdf-11f1-9c90-a93a719154c7.jpg",
+          "type": "image/jpeg",
+          "length": "99999"
+        }
+      ],
+      "canonical": [
+        {
+          "href": "https://www.bbc.co.uk/news/articles/czrzm6p6zxeo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "alternate": [
+        {
+          "href": "https://www.bbc.co.uk/news/articles/czrzm6p6zxeo?at_medium=RSS&at_campaign=rss",
+          "type": "text/html"
+        }
+      ],
+      "summary": {
+        "direction": "ltr",
+        "content": "<p><img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4648/live/54b5a5b0-9fdf-11f1-9c90-a93a719154c7.jpg\" alt=\"54b5a5b0-9fdf-11f1-9c90-a93a719154c7.jpg\"></p>Prince Harry, Meghan, and their two children are believed to have flown into the country privately from California."
+      },
+      "author": "",
+      "likingUsers": [],
+      "comments": [],
+      "commentsNum": -1,
+      "annotations": [],
+      "origin": {
+        "streamId": "feed/https://feeds.bbci.co.uk/news/rss.xml",
+        "title": "BBC News",
+        "htmlUrl": "https://www.bbc.com"
+      },
+      "summaries": []
+    },
+    {
+      "crawlTimeMsec": "1787745868259",
+      "timestampUsec": "1787745868259131",
+      "id": "tag:google.com,2005:reader/item/0000000bb722e072",
+      "categories": [
+        "user/1003553122/state/com.google/reading-list",
+        "user/1003553122/state/com.google/fresh"
+      ],
+      "title": "Ex-chief constable investigated over ban on Israeli Maccabi Tel Aviv fans",
+      "published": 1787745627,
+      "updated": 0,
+      "enclosure": [
+        {
+          "href": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a2d/live/537ff930-6139-11ee-b101-6f93d6dfbcc2.png",
+          "type": "image/jpeg",
+          "length": "99999"
+        }
+      ],
+      "canonical": [
+        {
+          "href": "https://www.bbc.co.uk/news/articles/cq5xe813w1do?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "alternate": [
+        {
+          "href": "https://www.bbc.co.uk/news/articles/cq5xe813w1do?at_medium=RSS&at_campaign=rss",
+          "type": "text/html"
+        }
+      ],
+      "summary": {
+        "direction": "ltr",
+        "content": "<p><img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1a2d/live/537ff930-6139-11ee-b101-6f93d6dfbcc2.png\" alt=\"537ff930-6139-11ee-b101-6f93d6dfbcc2.png\"></p>Craig Guildford, three police officers and a staff member face IOPC investigation."
+      },
+      "author": "",
+      "likingUsers": [],
+      "comments": [],
+      "commentsNum": -1,
+      "annotations": [],
+      "origin": {
+        "streamId": "feed/https://feeds.bbci.co.uk/news/rss.xml",
+        "title": "BBC News",
+        "htmlUrl": "https://www.bbc.com"
+      },
+      "summaries": []
+    },
+    {
+      "crawlTimeMsec": "1787745868259",
+      "timestampUsec": "1787745868259120",
+      "id": "tag:google.com,2005:reader/item/0000000bb722e07c",
+      "categories": [
+        "user/1003553122/state/com.google/reading-list",
+        "user/1003553122/state/com.google/fresh"
+      ],
+      "title": "Why high energy bills look like they are here to stay",
+      "published": 1787739033,
+      "updated": 0,
+      "enclosure": [
+        {
+          "href": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28bb/live/486f7610-a13c-11f1-a291-b542ee92de7c.jpg",
+          "type": "image/jpeg",
+          "length": "99999"
+        }
+      ],
+      "canonical": [
+        {
+          "href": "https://www.bbc.co.uk/news/articles/c046peqrg9xo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "alternate": [
+        {
+          "href": "https://www.bbc.co.uk/news/articles/c046peqrg9xo?at_medium=RSS&at_campaign=rss",
+          "type": "text/html"
+        }
+      ],
+      "summary": {
+        "direction": "ltr",
+        "content": "<p><img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/28bb/live/486f7610-a13c-11f1-a291-b542ee92de7c.jpg\" alt=\"486f7610-a13c-11f1-a291-b542ee92de7c.jpg\"></p>The government is under pressure to support billpayers when domestic energy prices predicted to rise further."
+      },
+      "author": "",
+      "likingUsers": [],
+      "comments": [],
+      "commentsNum": -1,
+      "annotations": [],
+      "origin": {
+        "streamId": "feed/https://feeds.bbci.co.uk/news/rss.xml",
+        "title": "BBC News",
+        "htmlUrl": "https://www.bbc.com"
+      },
+      "summaries": []
+    },
+    {
+      "crawlTimeMsec": "1787745414804",
+      "timestampUsec": "1787745414804315",
+      "id": "tag:google.com,2005:reader/item/0000000bb721bf0b",
+      "categories": [
+        "user/1003553122/state/com.google/reading-list",
+        "user/1003553122/state/com.google/fresh"
+      ],
+      "title": "Prince Harry and Meghan latest: Family \u2018lands in UK\u2019 in surprise move from California",
+      "published": 1787745172,
+      "updated": 0,
+      "enclosure": [
+        {
+          "href": "https://static.independent.co.uk/2026/08/23/09/2026-08-21T180854Z_1186727855_RC2RQKAMMKFP_RTRMADP_3_BRITAIN-ROYALS-MEGHAN.JPG?width=1200&amp;auto=webp&amp;trim=3,0,3,0",
+          "type": "image/jpeg",
+          "length": "99999"
+        }
+      ],
+      "canonical": [
+        {
+          "href": "https://www.independent.co.uk/news/uk/home-news/prince-harry-meghan-markle-latest-updates-moving-uk-today-b3039577.html"
+        }
+      ],
+      "alternate": [
+        {
+          "href": "https://www.independent.co.uk/news/uk/home-news/prince-harry-meghan-markle-latest-updates-moving-uk-today-b3039577.html",
+          "type": "text/html"
+        }
+      ],
+      "summary": {
+        "direction": "ltr",
+        "content": "<p>Prince Harry and Meghan are expected to return to the UK prior to the start of the school term as Prince Archie and Princess Lilibet are enrolled in British schools</p>"
+      },
+      "author": "Bryony Gooch",
+      "likingUsers": [],
+      "comments": [],
+      "commentsNum": -1,
+      "annotations": [],
+      "origin": {
+        "streamId": "feed/https://www.independent.co.uk/rss",
+        "title": "Independent",
+        "htmlUrl": "https://www.independent.co.uk/news/?service=Rss"
+      },
+      "summaries": []
+    },
+    {
+      "crawlTimeMsec": "1787745414804",
+      "timestampUsec": "1787745414804314",
+      "id": "tag:google.com,2005:reader/item/0000000bb721bf10",
+      "categories": [
+        "user/1003553122/state/com.google/reading-list",
+        "user/1003553122/state/com.google/fresh"
+      ],
+      "title": "Drunk passenger fined \u00a32,224 for verbally abusing staff on BA flight",
+      "published": 1787745155,
+      "updated": 0,
+      "enclosure": [
+        {
+          "href": "https://static.independent.co.uk/2026/08/26/12/01M0YTSWXPCEA7SKD4MZVW2W38.jpg?width=1200&amp;auto=webp&amp;trim=1,0,1,0",
+          "type": "image/jpeg",
+          "length": "99999"
+        }
+      ],
+      "canonical": [
+        {
+          "href": "https://www.independent.co.uk/bulletin/news/emmet-moynihan-drunk-stag-flight-ba-b3039595.html"
+        }
+      ],
+      "alternate": [
+        {
+          "href": "https://www.independent.co.uk/bulletin/news/emmet-moynihan-drunk-stag-flight-ba-b3039595.html",
+          "type": "text/html"
+        }
+      ],
+      "summary": {
+        "direction": "ltr",
+        "content": ""
+      },
+      "author": "Stanley Murphy-Johns",
+      "likingUsers": [],
+      "comments": [],
+      "commentsNum": -1,
+      "annotations": [],
+      "origin": {
+        "streamId": "feed/https://www.independent.co.uk/rss",
+        "title": "Independent",
+        "htmlUrl": "https://www.independent.co.uk/news/?service=Rss"
+      },
+      "summaries": []
+    },
+    {
+      "crawlTimeMsec": "1787745414804",
+      "timestampUsec": "1787745414804313",
+      "id": "tag:google.com,2005:reader/item/0000000bb721bf12",
+      "categories": [
+        "user/1003553122/state/com.google/reading-list",
+        "user/1003553122/state/com.google/fresh"
+      ],
+      "title": "Darline Graham\u2019s narrow win in South Carolina shows Trump\u2019s endorsement still matters",
+      "published": 1787745129,
+      "updated": 0,
+      "enclosure": [
+        {
+          "href": "https://static.independent.co.uk/2026/08/25/23/2291477915..?width=1200&amp;auto=webp&amp;trim=0,0,0,0",
+          "type": "application/octet-stream",
+          "length": "99999"
+        }
+      ],
+      "canonical": [
+        {
+          "href": "https://www.independent.co.uk/news/world/americas/us-politics/darline-graham-south-carolina-trump-primary-b3039178.html"
+        }
+      ],
+      "alternate": [
+        {
+          "href": "https://www.independent.co.uk/news/world/americas/us-politics/darline-graham-south-carolina-trump-primary-b3039178.html",
+          "type": "text/html"
+        }
+      ],
+      "summary": {
+        "direction": "ltr",
+        "content": "<p>The president\u2019s decision to deploy every resource to get Lindsey Graham\u2019s sister over the finish line paid off big time, <strong>Eric Garcia</strong> writes. But it comes on the heels of some stinging defeats</p>"
+      },
+      "author": "Eric Garcia",
+      "likingUsers": [],
+      "comments": [],
+      "commentsNum": -1,
+      "annotations": [],
+      "origin": {
+        "streamId": "feed/https://www.independent.co.uk/rss",
+        "title": "Independent",
+        "htmlUrl": "https://www.independent.co.uk/news/?service=Rss"
+      },
+      "summaries": []
+    },
+    {
+      "crawlTimeMsec": "1787745414804",
+      "timestampUsec": "1787745414804312",
+      "id": "tag:google.com,2005:reader/item/0000000bb721bf17",
+      "categories": [
+        "user/1003553122/state/com.google/reading-list",
+        "user/1003553122/state/com.google/fresh"
+      ],
+      "title": "How Dolly Parton redefined Glastonbury\u2019s Legends slot",
+      "published": 1787745125,
+      "updated": 0,
+      "enclosure": [
+        {
+          "href": "https://static.independent.co.uk/2026/08/26/11/26095409-d609bade-1a97-440f-9323-5d0b0d61dbb3.jpg?width=1200&amp;auto=webp&amp;crop=3:2",
+          "type": "image/jpeg",
+          "length": "99999"
+        }
+      ],
+      "canonical": [
+        {
+          "href": "https://www.independent.co.uk/arts-entertainment/music/news/dolly-parton-glastonbury-b3039539.html"
+        }
+      ],
+      "alternate": [
+        {
+          "href": "https://www.independent.co.uk/arts-entertainment/music/news/dolly-parton-glastonbury-b3039539.html",
+          "type": "text/html"
+        }
+      ],
+      "summary": {
+        "direction": "ltr",
+        "content": "<p>One Sunday teatime back in 2014, the Queen of Country drew one of the biggest crowds Glastonbury has ever seen \u2013 outshining that year\u2019s blokey line-up and raising the bar for the now-beloved Legends slot</p>"
+      },
+      "author": "Rachel McGrath",
+      "likingUsers": [],
+      "comments": [],
+      "commentsNum": -1,
+      "annotations": [],
+      "origin": {
+        "streamId": "feed/https://www.independent.co.uk/rss",
+        "title": "Independent",
+        "htmlUrl": "https://www.independent.co.uk/news/?service=Rss"
+      },
+      "summaries": []
+    },
+    {
+      "crawlTimeMsec": "1787745414804",
+      "timestampUsec": "1787745414804310",
+      "id": "tag:google.com,2005:reader/item/0000000bb721bf23",
+      "categories": [
+        "user/1003553122/state/com.google/reading-list",
+        "user/1003553122/state/com.google/fresh"
+      ],
+      "title": "What we know as Prince Harry and Meghan \u2018land back in Britain\u2019",
+      "published": 1787745029,
+      "updated": 0,
+      "enclosure": [
+        {
+          "href": "https://static.independent.co.uk/2026/08/21/14/02b89474682d5e30228a9eb634ec8360Y29udGVudHNlYXJjaGFwaSwxNzg3NDAxMzY3-2.84292761.jpg?width=1200&amp;auto=webp&amp;crop=3:2",
+          "type": "image/jpeg",
+          "length": "99999"
+        }
+      ],
+      "canonical": [
+        {
+          "href": "https://www.independent.co.uk/bulletin/news/prince-harry-meghan-markle-uk-return-b3039594.html"
+        }
+      ],
+      "alternate": [
+        {
+          "href": "https://www.independent.co.uk/bulletin/news/prince-harry-meghan-markle-uk-return-b3039594.html",
+          "type": "text/html"
+        }
+      ],
+      "summary": {
+        "direction": "ltr",
+        "content": ""
+      },
+      "author": "Bryony Gooch",
+      "likingUsers": [],
+      "comments": [],
+      "commentsNum": -1,
+      "annotations": [],
+      "origin": {
+        "streamId": "feed/https://www.independent.co.uk/rss",
+        "title": "Independent",
+        "htmlUrl": "https://www.independent.co.uk/news/?service=Rss"
+      },
+      "summaries": []
+    }
+  ],
+  "continuation": "xrEt84hw6q7L"
+}
